@@ -1,4 +1,4 @@
-<p align="center"><a href="https://kiriminaja.com" target="_blank"><img src="https://kiriminaja.com/assets/home-v3/share-card-home.png"></a></p>
+<p align="center"><a href="https://kiriminaja.com" target="_blank"><img src="https://user-images.githubusercontent.com/39618526/211758065-009cd455-4d4d-45a1-82b5-0b426bffe6ca.gif"></a></p>
 
 ## Tentang KiriminAja
 
