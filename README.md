@@ -1,2 +1,2 @@
-# .github
-Github Information
+# Group Information
+Github Group Information
