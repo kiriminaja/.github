@@ -1,5 +1,3 @@
-<p align="center"><a href="https://kiriminaja.com" target="_blank"><img src="https://user-images.githubusercontent.com/39618526/211758065-009cd455-4d4d-45a1-82b5-0b426bffe6ca.gif"></a></p>
-
 ## KiriminAja
 
 KiriminAja sebuah platform yang memberikan kemudahan untuk pengiriman paket dan menemukan ekspedisi sesuai kebutuhan masyarakat, dengan metode pengiriman COD dan Non-COD yang dikembangkan oleh PT Selalu Siap Solusi.
